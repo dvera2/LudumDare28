@@ -25,6 +25,8 @@ public class DudeController : MonoBehaviour {
 
 	public Vector2 prevVelocity;
 
+	public ParticleSystem dustSystem;
+
 
 	public float footResist = 0.25f;
 	public float minJumpTime = 0.2f;
@@ -130,6 +132,8 @@ public class DudeController : MonoBehaviour {
 		else {
 			canJump = false;
 			audioController.PlayFall();
+
+			if(dustSystem) dustSystem.Emit(10);
 		}
 	}
 

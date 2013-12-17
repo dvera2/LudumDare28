@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 614fc76c16d6b4402b158f2b103f5830
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 13
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: ChickBody
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 637
+        width: 84
+        height: 109
+      alignment: 9
+      pivot: {x: .5, y: .174254805}
+    - name: ChickArm1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 676
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: .810690165, y: .784704983}
+    - name: ChickArm2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 640
+        width: 31
+        height: 23
+      alignment: 5
+      pivot: {x: 1, y: .5}
+    - name: Flower1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 655
+        width: 60
+        height: 72
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Flower2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 647
+        width: 48
+        height: 88
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Flower3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 656
+        width: 37
+        height: 54
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Flower4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 650
+        width: 42
+        height: 82
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Flower5
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 649
+        width: 32
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Flower6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 652
+        width: 37
+        height: 62
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Flower7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 512
+        width: 48
+        height: 106
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Flower8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 498
+        width: 44
+        height: 119
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Flower9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 519
+        width: 43
+        height: 71
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Flower10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 501
+        width: 62
+        height: 109
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Flower11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 493
+        width: 149
+        height: 122
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: FlowerBlade
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 510
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Bunny
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 652
+        width: 129
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Branches
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 535
+        width: 183
+        height: 217
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Dude
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 80
+        width: 115
+        height: 395
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Coconut
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 408
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Penguin
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 80
+        width: 137
+        height: 242
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: PenFin1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 266
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PenFin2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 159
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Tree
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 85
+        width: 162
+        height: 321
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BeachUmbrella
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 79
+        width: 378
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Flag
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 402
+        width: 29
+        height: 347
+      alignment: 9
+      pivot: {x: .459186435, y: .0477509499}
+    - name: Flag2
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 350
+        width: 162
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: .5}
+  spritePackingTag: LudumSheet
+  userData: 
